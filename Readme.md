@@ -6,5 +6,6 @@ output: html_document
 L'objectif de la première partie est de comprendre Markdown
 
  
-https://fr.wikipedia.org/wiki/Aigle_royal#/media/Fichier:GoldenEagle-Nova.jpg
+![image](https://fr.wikipedia.org/wiki/Aigle_royal#/media/Fichier:GoldenEagle-Nova.jpg)
+
 
